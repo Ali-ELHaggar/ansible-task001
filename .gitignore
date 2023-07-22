@@ -1,0 +1,7 @@
+.terraform
+.git
+templates
+*lock.hcl
+*.pem
+*tf
+*.sh
