@@ -5,3 +5,4 @@ templates
 *.pem
 *tf
 *.sh
+*.tfstate
