@@ -6,3 +6,5 @@ templates
 *tf
 *.sh
 *.tfstate
+playbook.yml
+terraform.tfstate.backup
